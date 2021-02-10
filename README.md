@@ -5,4 +5,4 @@
 | [Анализ поведения пользователей мобильного приложения](user-analysis-mobapp) | Анализ поведения пользователей, для определения показателей, которые влияют на совершения целевого действия. | pandas, datetime, numpy, seaborn, scipy, math, plotly |
 | [Анализ рынка общепита Москвы](catering-market-analysis) | Анализ территориального распределения и количества посадочных мест заведений общественного питания Москвы для оценки инвестиционной идеи. | pandas, matplotlib.pyplot, seaborn, numpy, pymystem3, collections |
 | [A/B тестирование](ab-test) | Оценка корректности и результатов A/B-теста | pandas, matplotlib.pyplot, numpy, scipy, datetime |
-| [Анализ источников траффика сервиса по продаже билетов](analysis-of-traffic-sources) | Оценка маркетинговых расходов сервиса по онлайн продаже билетов | pandas, matplotlib.pyplot, seaborn, numpy |
+| [Анализ источников траффика сервиса по продаже билетов](analysis-of-traffic-sources) | Анализ маркетинговых расходов сервиса по онлайн продаже билетов, для снижения затрат| pandas, matplotlib.pyplot, seaborn, numpy |
